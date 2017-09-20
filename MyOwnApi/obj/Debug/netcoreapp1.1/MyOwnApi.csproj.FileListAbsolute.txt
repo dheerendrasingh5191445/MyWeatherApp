@@ -1,0 +1,19 @@
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.deps.json
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.runtimeconfig.json
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.runtimeconfig.dev.json
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.dll
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.AssemblyInfo.cs
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.pdb
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.dll
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.pdb
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.deps.json
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.runtimeconfig.json
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.runtimeconfig.dev.json
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.dll
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.pdb
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.csprojResolveAssemblyReference.cache
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.AssemblyInfo.cs
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.dll
+C:\Users\Training\source\repos\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.pdb
