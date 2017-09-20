@@ -1,0 +1,38 @@
+<div class="container-fluid">
+<div class="row">
+			<div class="weather-card">
+				<div class="top">
+					<div class="wrapper">
+						<div class="mynav">
+							<img src="http://openweathermap.org/img/w/{{Data.icon}}.png"/>
+						</div>
+						<h1 class="heading">{{Data.description}}</h1>
+						<h3 class="location">{{Data.CityName}}</h3>
+						<p class="temp">
+							<span class="temp-value">{{Data.Temperature}}</span>
+							<span class="temp-value">K</span>
+						</p>
+					 <button class="button" (click)="addfavourite(Data)">Favourite</button>
+					</div>
+				</div>
+				<div class="bottom">
+					<div class="wrapper">
+						<ul class="forecast">
+							<li class="active">
+								<span class="date">Datetime :</span>
+								<span class="lnr condition">
+									<span class="temp">{{Data.DateTime}}</span>
+								</span>
+							</li>
+							<li class="active">
+								<span class="date">Temperature :</span>
+								<span class="lnr lnr-sun condition">
+									<span class="temp">{{Data.Temperature}}</span><span class="temp-type">K</span>
+								</span>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+	</div>
+</div>             

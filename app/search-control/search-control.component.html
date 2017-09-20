@@ -1,0 +1,7 @@
+<div class="dhirusearch">
+
+<form method="get" (click)="getWeather()" action="/search" id="search">
+    <input name="q" type="text" size="40"  [(ngModel)]="selection" [ngModelOptions]="{standalone: true}" placeholder="Search..." />
+    <button routerLink="/favourite-control">Favourite</button>
+  </form>
+</div>

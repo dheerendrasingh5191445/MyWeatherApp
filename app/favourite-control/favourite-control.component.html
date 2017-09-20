@@ -1,0 +1,26 @@
+<section class="row-section">
+	    <div class="row">
+		    <h2 class="text-center"><span>Favourite Listing</span>Created with <i class="fa fa-heart"></i> from<a href="http://grafreez.com"> DhiruBhai</a></h2>
+		</div>
+		<div *ngFor="let item of MyFav | paginate: { itemsPerPage: 4, currentPage: p }">
+	            <li class="row row-block">
+	            <div class="col-md-1 media-left align-self-center">
+	                <img class="rounded-circle" src="http://openweathermap.org/img/w/{{item.icon}}.png">
+				</div>
+	            <div class=" media-body">
+						<h4>{{item.cityName}}</h4>
+						<h4>{{item.discription}}</h4>
+						<p class="desc">Temperature :{{item.temperature}}K</p>
+						<p class="desc">Pressure :{{item.pressure}}</p>	
+						<p class="desc">Datetime :{{item.dateTime}}</p>	
+						<div class="row dhiruinput">
+						<input class="col-lg-10" #commentline placeholder="comment">
+						</div>				
+					</div>
+	            <div>
+					<a href="#" (click)="comment(item,commentline.value)"  class="btn btn-default">Comment</a>	
+					<a href="#" (click)="delete(item.id)" class="btn btn-default">Delete</a>
+					<a href="#" routerLink="/parent-control" class="btn btn-default">Search</a>						
+				</div></li>     
+</div>
+</section>

@@ -1,0 +1,32 @@
+.dhiru {
+  font-family: 'cursive', sans-serif;
+  background:url(https://i.pinimg.com/originals/af/58/7a/af587a71ddccfbd890c356d164cd4463.jpg);
+  width: 100%;
+}
+.dhiru > .dhiruhead{
+  padding: 30px;
+  width: 100%;
+  position: relative;
+  color: #343434;
+  font-weight: normal;
+  font-family: cursive;   
+  font-size: 50px;
+  line-height: 42px;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 0 5px white, 0 3px #777;
+}
+pagination-controls{
+  padding:30px;
+  font-size: 20px;
+ text-align: center;
+ position: relative;
+}
+pagination-controls li{
+color: white;
+}
+@media (min-width: 992px){
+.col-lg-3 {
+    max-width: 100%;
+}
+}

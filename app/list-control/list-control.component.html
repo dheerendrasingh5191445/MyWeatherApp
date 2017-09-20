@@ -1,0 +1,9 @@
+<div class="container-fluid dhiru">
+		<div class="dhiruhead"> WELCOME TO WEATHER REPORT </div>
+			<div class="row">
+						<div class="col-lg-3"  *ngFor="let item of modellist | paginate: { itemsPerPage: 4, currentPage: p }">
+						 <app-detail-list *ngIf="item" [Data]="item"></app-detail-list>
+						 </div>
+			 </div>
+		 <pagination-controls (pageChange)="p = $event"></pagination-controls>
+</div>
